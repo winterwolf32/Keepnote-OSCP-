@@ -16,6 +16,8 @@ The following people I'd like to give credit to as I've used their tools, blogs,
 @424f424f \
 @byt3bl33d3r \
 @vysecurity \
-@g0tmi1k 
+@g0tmi1k \
+@nikhil_mitt \
+@mainframed767
 
 
