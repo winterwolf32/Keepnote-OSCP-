@@ -7,13 +7,15 @@ It would be nice if the community could make changes and add on to it over time.
 
 The following people I'd like to give credit to as I've used their tools, blogs, and other content to make this KeepNote.  There are more and will update this.
 
-@MrUn1k0d3r
-@harmj0y
-@XssPayloads
-@matterpreter
-@_dirkjan
-@Jacob_Wilkin
-@424f424f (rvrsh3ll)
-@byt3bl33d3r
-@vysecurity
+@MrUn1k0d3r \
+@harmj0y \
+@XssPayloads \
+@matterpreter \
+@_dirkjan \
+@Jacob_Wilkin \
+@424f424f \
+@byt3bl33d3r \
+@vysecurity \
+@g0tmi1k 
+
 
