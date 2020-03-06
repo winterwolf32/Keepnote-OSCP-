@@ -1,5 +1,7 @@
 # keepnote
-Quick and Dirty Penetration Testing Notes
+Quick and Dirty Penetration Testing Notes <br>
+
+Antivirus might flag this file, there are plenty of one liners that will cause this, FYI. <br>
 
 These notes are an aggregate over a few years in infosec.  Multiple blogs, videos, my own realizations etc. from everywhere - so many to list.  If you see something and want to be credited, let me know.
 
